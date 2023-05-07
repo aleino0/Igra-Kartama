@@ -1,0 +1,8 @@
+C:\Users\linar\Documents\programiranje\igra-karti\igra-karti\bin\Debug\igra-karti.exe.config
+C:\Users\linar\Documents\programiranje\igra-karti\igra-karti\bin\Debug\igra-karti.exe
+C:\Users\linar\Documents\programiranje\igra-karti\igra-karti\bin\Debug\igra-karti.pdb
+C:\Users\linar\Documents\programiranje\igra-karti\igra-karti\obj\Debug\igra-karti.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\igra-karti\igra-karti\obj\Debug\igra-karti.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\igra-karti\igra-karti\obj\Debug\igra-karti.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\igra-karti\igra-karti\obj\Debug\igra-karti.exe
+C:\Users\linar\Documents\programiranje\igra-karti\igra-karti\obj\Debug\igra-karti.pdb
